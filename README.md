@@ -1,6 +1,8 @@
 # Electrical-Control-Unit
 A Raspberry Pi based ECU simulator with LCD display and keyboard controls for RPM, speed, and gear values. Built to explore embedded systems, real-time input handling, and automotive data visualization.
 
+DEMO: https://drive.google.com/file/d/1j3NWIalNy_je37wOkSPL3Oaw1GRPsQHg/view?usp=share_link
+
 # ECU Simulation (CLI + optional Raspberry Pi LCD)
 
 A simple ECU-style dashboard you can run from your terminal using arrow keys,
